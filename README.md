@@ -1,8 +1,12 @@
 # Cruzzleo
 
-📚 Ex-Estudante de Educação Física | 💼 Interessado em Segurança Patrimonial | 🌐 Futuro Desenvolvedor Web Front-end | 🌍 Inglês B2
+📚 Ex-Estudante de Educação Física;
 
-👋 Olá! Sou Leandro, um ex-estudante de Educação Física, buscando novos caminhos e oportunidades. Minha jornada acadêmica me proporcionou uma compreensão profunda do bem-estar físico e mental, aspectos que continuo valorizando.
+🌐 Futuro Desenvolvedor Web Front-end
+
+🌍 Inglês B2
+
+👋 Olá! **Sou Leandro**, um ex-estudante de Educação Física, buscando novos caminhos e oportunidades. Minha jornada acadêmica me proporcionou uma compreensão profunda do bem-estar físico e mental, aspectos que continuo valorizando.
 
 📚 Além dos estudos em Educação Física, estou embarcando em uma nova jornada no mundo da tecnologia. Concluí cursos de Git e GitHub e estou determinado a me tornar um desenvolvedor web front-end.
 
